@@ -5,16 +5,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TECHGAMESPI&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Rafa-vscode" height="30" width="40" src="<svg xmlns="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
-  <img align="center" alt="Rafa-postman" height="30" width="40" src="<svg xmlns="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/854391678549622786/1009992611928490067/293845957_164294266133707_3307984224127372108_n.png">
+  <img align="center" alt="TECHGAMESPI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TECHGAMESPI-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="TECHGAMESPI-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TECHGAMESPI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="TECHGAMESPI-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="TECHGAMESPI-woocomerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg">
+  <img align="center" alt="TECHGAMESPI-magento" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/magento/magento-original.svg">
+  <img align ="center" alt= "TECHGAMESPI-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg">
+  <img align ="center" alt= "TECHGAMESPI-lua" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/lua/lua-original-wordmark.svg"
+  <img align="center" alt="TECHGAMESPI-vscode" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="TECHGAMESPI-postman" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
+  <img align="center" alt="TECHGAMESPI-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TECHGAMESPI-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="TECHGAMESPI-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/854391678549622786/1009992611928490067/293845957_164294266133707_3307984224127372108_n.png">
  </div>
   
   ##
