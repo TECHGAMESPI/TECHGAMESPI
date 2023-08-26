@@ -10,7 +10,7 @@
   <img align="center" alt="TECHGAMESPI-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TECHGAMESPI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="TECHGAMESPI-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="TECHGAMESPI-woocomerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg">
+  <img align="center" alt="TECHGAMESPI-woocomerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg">
   <img align="center" alt="TECHGAMESPI-magento" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/magento/magento-original.svg">
   <img align ="center" alt= "TECHGAMESPI-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg">
   <img align ="center" alt= "TECHGAMESPI-lua" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/lua/lua-original-wordmark.svg"
