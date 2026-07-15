@@ -19,7 +19,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT }}   # PAT com escopos repo + read:user — veja instruções abaixo
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2.0.1
@@ -27,7 +27,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=algolia
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT }}
 
       - name: Commit cards
         run: |
