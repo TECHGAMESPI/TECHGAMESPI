@@ -15,12 +15,11 @@ Mantenho a **TECHGAMESPI** e desenvolvo projetos como a **Javis Academy**.
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TECHGAMESPI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TECHGAMESPI&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
-<!-- Se os cards acima não aparecerem: o serviço público github-readme-stats.vercel.app
-     está com uma instabilidade conhecida (ver anuraghazra/github-readme-stats#4737).
-     Alternativa: self-host gratuito no Vercel, ou usar a GitHub Readme Stats Action. -->
+<!-- Esses dois cards são gerados pela GitHub Action em .github/workflows/readme-stats.yml
+     (stats-organization/github-readme-stats-action), não pelo serviço público do Vercel. -->
 
 <br>
 
